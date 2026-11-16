@@ -1,0 +1,7 @@
+﻿.venv/
+.spark-tmp/
+.hadoop-native/
+__pycache__/
+*.py[cod]
+logs/
+dataset/
